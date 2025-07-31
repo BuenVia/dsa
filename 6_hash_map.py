@@ -31,6 +31,8 @@ hm.set_hash("Barcelona", 9)
 hm.set_hash("Malaga", 45)
 hm.set_hash("Gijon", 33)
 
+
 print(hm.get_hash("Madrid"))
+print(hm.get_hash("Valencia"))
 
 print(hm.data_map)
